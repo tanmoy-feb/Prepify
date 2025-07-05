@@ -1,0 +1,12 @@
+/* Resetting unwanted boilerplate from default Vite setup */
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #000; /* black background like your design */
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
